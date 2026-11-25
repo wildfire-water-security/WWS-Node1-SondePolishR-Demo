@@ -1,0 +1,13 @@
+name: sondepolishr-demo
+title: SondePolishR-Demo
+username: katiewampler
+account: katiewampler
+server: connect.posit.cloud
+hostUrl: https://api.connect.posit.cloud/v1
+appId: 01a21482-2aca-cd92-bc10-ecebb2eb0c60
+appGuid:
+bundleId:
+url: https://connect.posit.cloud/katiewampler/content/01a21482-2aca-cd92-bc10-ecebb2eb0c60
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
